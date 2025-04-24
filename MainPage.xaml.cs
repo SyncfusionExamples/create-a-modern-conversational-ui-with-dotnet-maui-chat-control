@@ -1,5 +1,4 @@
-﻿using AndroidX.Lifecycle;
-using Syncfusion.Maui.Chat;
+﻿using Syncfusion.Maui.Chat;
 
 namespace ChatApp
 {
