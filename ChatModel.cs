@@ -15,7 +15,7 @@ namespace ChatApp
         public Author Reciver { get; set; }
         public ChatModel() {
             Messages = new ObservableCollection<object>();
-            Sender = new Author() { Name="Daniel", Avatar="img"};
+            Sender = new Author() { Name="Daniel", Avatar="img.png"};
             Reciver = new Author() { Name = "Jack" };
             GenerateMessages();
         }
